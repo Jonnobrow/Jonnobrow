@@ -1,14 +1,13 @@
 ### Hi, I'm Jonathan
 
-I am in the process of moving back to Github for my personal projects such as my
-[blog](https://jonathanbartlett.co.uk) and my [dotfiles](https://github.com/Jonnobrow/dotfiles).
+I am in the process of moving back to Github for my personal projects such as my [dotfiles](https://github.com/Jonnobrow/dotfiles) and [gitops](https://github.com/Jonnobrow/coffee-shop)
 
 My university work and a lot of other stuff still lives at [Gitlab](https://gitlab.com/Jonnobrow/).
 
-- 💻**Right now**: I'm just updating my personal dotfiles and adding to my server whilst I tutor Computer Science
-- 📅 **Next**: I will be starting at [Sky](https://sky.com) in October 2021.
-
-More from me:
+- 💻 **Day Job**: I'm working for [Sky](https://sky.com) as a DevOps Engineer
+- 🔭 **Other Projects**: 
+  - Improving [my Homelab](https://github.com/Jonnobrow/coffee-shop)
+  - Developing [`spotify2m3u`](https://github.com/Jonnobrow/spotify2m3u)
 - [My Landing Page 🛬 and Blog 📔](https://jonathanbartlett.co.uk)
 - [LinkedIn](https://linkedin.com/in/jsb1g18)
 <!--
