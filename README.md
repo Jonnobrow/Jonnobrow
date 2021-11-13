@@ -1,6 +1,6 @@
 ### 😄 Hi, I'm Jonathan
 
-I'm twenty two, my pronouns and he/him and I recently graduated from a Computer Science Degree at the University of Southampton.
+I'm twenty two, my pronouns are he/him and I recently graduated from a Computer Science Degree at the University of Southampton. Now I'm working for [Sky](https://sky.com) and continuing to learn. 
 
 My new projects live on GitHub, but some older projects are still available on my [Gitlab](https://gitlab.com/Jonnobrow/).
 
