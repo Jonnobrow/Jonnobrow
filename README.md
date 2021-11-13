@@ -1,15 +1,22 @@
-### Hi, I'm Jonathan
+### 😄 Hi, I'm Jonathan
 
-I am in the process of moving back to Github for my personal projects such as my [dotfiles](https://github.com/Jonnobrow/dotfiles) and [gitops](https://github.com/Jonnobrow/coffee-shop)
+I'm twenty two, my pronouns and he/him and I recently graduated from a Computer Science Degree at the University of Southampton.
 
-My university work and a lot of other stuff still lives at [Gitlab](https://gitlab.com/Jonnobrow/).
+My new projects live on GitHub, but some older projects are still available on my [Gitlab](https://gitlab.com/Jonnobrow/).
 
-- 💻 **Day Job**: I'm working for [Sky](https://sky.com) as a DevOps Engineer
-- 🔭 **Other Projects**: 
-  - Improving [my Homelab](https://github.com/Jonnobrow/coffee-shop)
+#### ⚡ Some more about what I'm doing
+- 💻 **Day Job**: I'm working for [Sky](https://sky.com) as an Associate DevOps Engineer (Started October 2021)
+- 🔭 **Main Personal Projects**:
+  - Improving [my Homelab](https://github.com/Jonnobrow/coffee-shop) and [backups](https://github.com/Jonnobrow/ansible-backup)
+  - Perfecting [my Dotfiles](https://github.com/Jonnobrow/dotfiles)
+- 🌱 **Other Projects**:
   - Developing [`spotify2m3u`](https://github.com/Jonnobrow/spotify2m3u)
-- [My Landing Page 🛬 and Blog 📔](https://jonathanbartlett.co.uk)
-- [LinkedIn](https://linkedin.com/in/jsb1g18)
+  - Learning with my [labs](https://github.com/Jonnobrow/labs)
+
+#### 💬 Want to learn a bit more about me or get in touch?
+- For my homelab story and some other bits checkout [my Landing Page 🛬 and Blog 📔](https://jonathanbartlett.co.uk)
+- To see my professional profile and get in touch see [LinkedIn](https://linkedin.com/in/jsb1g18)
+
 <!--
 **Jonnobrow/Jonnobrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
