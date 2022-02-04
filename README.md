@@ -9,9 +9,9 @@ My new projects live on GitHub, but some older projects are still available on m
 - 🔭 **Main Personal Projects**:
   - Improving [my Homelab](https://github.com/Jonnobrow/coffee-shop) and [backups](https://github.com/Jonnobrow/ansible-backup)
   - Perfecting [my Dotfiles](https://github.com/Jonnobrow/dotfiles)
+  - Maintaining a [dendrite helm chart](https://github.com/k8s-at-home/charts/tree/master/charts/incubator/dendrite)
 - 🌱 **Other Projects**:
-  - Developing [`spotify2m3u`](https://github.com/Jonnobrow/spotify2m3u)
-  - Learning with my [labs](https://github.com/Jonnobrow/labs)
+  - Developing [`dev-toys-cli`](https://github.com/Jonnobrow/dev-toys-cli)
 
 #### 💬 Want to learn a bit more about me or get in touch?
 - For my homelab story and some other bits checkout [my Landing Page 🛬 and Blog 📔](https://jonathanbartlett.co.uk)
