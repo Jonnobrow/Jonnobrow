@@ -5,7 +5,7 @@ I'm twenty three, my pronouns are he/him and I'm working for [Sky](https://sky.c
 My new projects live on GitHub, but some older projects are still available on my [Gitlab](https://gitlab.com/Jonnobrow/).
 
 #### ⚡ Some more about what I'm doing
-- 💻 **Day Job**: I'm working for [Sky](https://sky.com) as an Associate DevOps Engineer (Started October 2021)
+- 💻 **Day Job**: I'm working for [Sky](https://sky.com) as Site Reliability Engineer
 - 🔭 **Main Personal Projects**:
   - Improving [my Homelab](https://github.com/Jonnobrow/coffee-shop) and [backups](https://github.com/Jonnobrow/ansible-backup)
   - Perfecting [my Dotfiles](https://github.com/Jonnobrow/dotfiles)
