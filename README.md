@@ -12,7 +12,7 @@ My new projects live on GitHub, but some older projects are still available on m
 
 #### 💬 Want to learn a bit more about me or get in touch?
 - For my homelab story and some other bits checkout [my Landing Page 🛬 and Blog 📔](https://jonathanbartlett.co.uk)
-- To see my professional profile and get in touch see [LinkedIn](https://linkedin.com/in/jsb1g18)
+- To see my professional profile and get in touch see [LinkedIn](https://linkedin.com/in/jonnobrow)
 
 <!--
 **Jonnobrow/Jonnobrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
