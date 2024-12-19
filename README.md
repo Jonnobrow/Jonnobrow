@@ -1,6 +1,6 @@
 ### 😄 Hi, I'm Jonathan
 
-I'm twenty four, my pronouns are he/him and I'm working for [Sky](https://sky.com) and continuing to learn. 
+I'm twenty five, my pronouns are he/him and I'm working for [Sky](https://sky.com) and continuing to learn. 
 
 My new projects live on GitHub, but some older projects are still available on my [Gitlab](https://gitlab.com/Jonnobrow/).
 
